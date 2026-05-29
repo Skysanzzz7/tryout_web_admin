@@ -57,7 +57,7 @@ Jalankan server:
 - node server.js
 Server akan berjalan di http://localhost:5000
 
-2. Konfigurasi Frontend
+### **3. Konfigurasi Frontend**
 Pastikan file firebase.js di frontend/src/config/ sudah diisi dengan config Firebase project kamu.
 
 Jalankan development server:
